@@ -1,0 +1,71 @@
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Deals Page Specific Styles */
+h1 {
+    text-align: center; /* Center the title */
+    font-size: 2rem; /* Title size */
+    color: #333; /* Title color */
+    margin-top: 110px; /* Adjust the value as needed */
+    margin-bottom: 1rem; /* Space below the title */
+}
+
+.coupon-section {
+    text-align: center; /* Center the coupon section */
+    margin: 2rem 0; /* Space around the section */
+}
+
+.coupon-section img {
+    width: 100%; /* Make the image responsive */
+    max-width: 600px; /* Limit the maximum width */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.description-text {
+    text-align: center; /* Center the description text */
+    max-width: 800px; /* Limit the width */
+    margin: 0 auto; /* Center the text */
+    padding: 1rem; /* Add padding */
+    color: #666; /* Text color */
+}
+
+/* Button styling */
+.cta-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background: linear-gradient(45deg, rgb(8, 123, 254), rgb(8, 160, 255));
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5rem; /* Smaller title size for mobile */
+        margin-top: 100px; /* Adjust top margin for mobile */
+    }
+
+    .container {
+        padding: 1rem; /* Reduce padding for smaller screens */
+    }
+
+    .description-text {
+        padding: 0.5rem; /* Reduce padding for mobile */
+    }
+
+    .cta-button {
+        padding: 0.8rem 1.5rem; /* Adjust button padding for mobile */
+    }
+}

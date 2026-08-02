@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact Us page for 22 Jumpers. Get in touch with us for your next event.">
+    <title>Contact Us - 22 Jumpers</title>
+    <link rel="icon" type="image/x-icon" href="content images/favicon.ico">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="contact-us.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <div class="container">
+        <h1>Contact Us</h1>
+        <form id="eventForm" action="https://formspree.io/f/mpwzlbea" method="POST" onsubmit="handleSubmit(event)">
+            <div>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div>
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" required>
+            </div>
+            <div>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+            </div>
+            <button type="submit" class="cta-button">Submit</button>
+        </form>
+        <div id="successMessage" style="display:none;">
+            <p>Thanks! The form was submitted successfully.</p>
+            <button onclick="closeForm()">Go Back</button>
+        </div>
+    </div>
+
+    <div id="footer-placeholder"></div>
+
+    <script src="https://f8653750-f7cb-4f50-acdf-2a92155c2ab6.assets.booqable.com/v2/booqable.js"></script>
+    <script src="header.js"></script>
+    <script src="footer.js"></script>
+    <script src="contact-us.js"></script>
+    <script src="contact-us-submitted-form.js"></script>
+</body>
+</html>
