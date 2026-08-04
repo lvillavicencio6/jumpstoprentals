@@ -7,7 +7,7 @@ const products = [
     },
     {
         name: "6ft Rectangular Table",
-        price: "$8",
+        price: "$10",
         image: "../../content images/6ft-rectangular-table.png",
         link: "/items/6ft_rectangular_table/"
     },
@@ -19,7 +19,7 @@ const products = [
     },
     {
         name: "Kids Rectangular Table",
-        price: "$8",
+        price: "$9",
         image: "../../content images/kids-rectangular-table.png",
         link: "/items/kids_rectangular_table/"
     },
