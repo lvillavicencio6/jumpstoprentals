@@ -1,37 +1,37 @@
 const products = [
     {
-        id: 101,
-        name: "Red Green & Yellow Small Jumper",
-        price: "$85",
+        id: 121,
+        name: "Toddler Bounce House 11' x 11'",
+        price: "$95",
         image: "../../content images/red-green-yellow-small-jumper.png",
         link: "/items/101_-_red_green_and_yellow_small_jumper/"
     },
     {
-        id: 102,
-        name: "Blue & Pink Small Jumper",
-        price: "$85",
+        id: 122,
+        name: "Pink Toddler Bounce House 11' x 11'",
+        price: "$95",
         image: "../../content images/blue-pink-small-jumper.png",
         link: "/items/102_-_blue__and__pink_small_jumper/"
     },
     // ... add more products as needed
     {
-        id: 103,
-        name: "Blue Green & Yellow Jumper",
-        price: "$95",
+        id: 124,
+        name: "Classic Castle 13' x 13'",
+        price: "$115",
         image: "../../content images/blue-green-yellow-jumper.png",
         link: "/items/103_-_blue,_green__and__yellow_jumper/"
     },
     {
-        id: 104,
-        name: "Balloons Jumper",
-        price: "$95",
+        id: 123,
+        name: "Balloons 13' x 13'",
+        price: "$115",
         image: "../../content images/balloons-jumper.png",
         link: "/items/104_-_balloons_jumper/"
     },
     {
-        id: 105,
-        name: "Pink Jumper",
-        price: "$95",
+        id: 125,
+        name: "Pink Princess 13' x 13'",
+        price: "$115",
         image: "../../content images/pink-jumper.png",
         link: "/items/105_-_pink_jumper/"
     },
@@ -43,30 +43,30 @@ const products = [
         link: "/items/106_-_pink_castle_jumper/"
     },
     {
-        id: 107,
-        name: "Tropical Sun Jumper",
-        price: "$95",
+        id: 126,
+        name: "Sunny Palms 13' x 13'",
+        price: "$115",
         image: "../../content images/tropical-sun-jumper-front.png",
         link: "/items/107_-_tropical_sun_jumper/"
     },
     {
-        id: 201,
-        name: "Classic Combo Slide Jumper",
-        price: "$165",
+        id: 211,
+        name: "Rainbow Castle Combo Slide 13' x 21'",
+        price: "$185",
         image: "../../content images/classic-combo-slide-jumper.png",
         link: "/items/201_-_classic_combo_slide_jumper/"
     },
     {
-        id: 202,
-        name: "Pink Castle Combo Slide Jumper",
-        price: "$165",
+        id: 212,
+        name: "Princess Castle Combo Slide 13' x 21'",
+        price: "$185",
         image: "../../content images/pink-castle-combo-slide.png",
         link: "/items/202_-_pink_castle_combo_slide/"
     },
     {
-        id: 203,
-        name: "Tropical Sun Combo Slide Jumper",
-        price: "$165",
+        id: 213,
+        name: "Tropical Tropical Palms Combo Slide 13' x 21'",
+        price: "$185",
         image: "../../content images/tropical-sun-combo-slide.png",
         link: "/items/203_-_tropical_sun_combo_slide_jumper/"
     },
