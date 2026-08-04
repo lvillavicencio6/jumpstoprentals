@@ -1,57 +1,57 @@
 const products = [
     {
-        name: "Red Green & Yellow Package",
-        price: "$137",
+        name: "Toddler Bounce House Package",
+        price: "$140",
         image: "../../content images/red-green-yellow-package.png",
         link: "/items/red,_green__and__yellow_package/"
     },
     {
-        name: "Blue & Pink Package",
-        price: "$137",
+        name: "Pink Toddler Bounce House Package",
+        price: "$140",
         image: "../../content images/blue-pink-package.png",
         link: "/items/blue__and__pink_package/"
     },
     {
-        name: "Classic Combo Slide Package",
-        price: "$209",
+        name: "Rainbow Castle Package",
+        price: "$220",
         image: "../../content images/classic-combo-slide-package.png",
         link: "/items/classic_combo_slide_package/"
     },
     {
-        name: "Pink Castle Combo Slide Package",
-        price: "$209",
+        name: "Princess Castle Package",
+        price: "$220",
         image: "../../content images/pink-castle-combo-slide-package.png",
         link: "/items/pink_castle_combo_slide_package/"
     },
     {
-        name: "Tropical Sun Combo Slide Package",
-        price: "$209",
+        name: "Tropical Palms Package",
+        price: "$220",
         image: "../../content images/tropical-sun-combo-slide-package.png",
         link: "/items/tropical_sun_combo_slide_package/"
     },
     
     // ... add more products as needed
     {
-        name: "Blue Green & Yellow Package",
-        price: "$147",
+        name: "Classic Castle Package",
+        price: "$150",
         image: "../../content images/blue-green-yellow-package.png",
         link: "/items/blue,_green__and__yellow_package/"
     },
     {
-        name: "Balloons Package",
-        price: "$147",
+        name: "Classic Balloons Package",
+        price: "$150",
         image: "../../content images/balloons-package.png",
         link: "/items/balloons_package/"
     },
     {
-        name: "Pink Package",
-        price: "$147",
+        name: "Pink Princess Package",
+        price: "$150",
         image: "../../content images/pink-package.png",
         link: "/items/pink_package/"
     },
     {
-        name: "Tropical Sun Package",
-        price: "$147",
+        name: "Sunny Palms Package",
+        price: "$150",
         image: "../../content images/tropical-sun-package.png",
         link: "/items/tropical_sun_package/"
     },
