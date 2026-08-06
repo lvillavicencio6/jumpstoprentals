@@ -15,6 +15,13 @@ const products = [
     },
     // ... add more products as needed
     {
+        id: 109,
+        name: "Pink & Blue Bounce House 11' x 11'",
+        price: "$95",
+        image: "../../content images/blue-pink-small-jumper.png",
+        link: "/items/109_-_purple_and_blue/"
+    },{
+        
         id: 124,
         name: "Classic Castle 13' x 13'",
         price: "$115",
