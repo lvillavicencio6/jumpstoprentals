@@ -18,7 +18,7 @@ const products = [
         id: 109,
         name: "Pink & Blue Bounce House 11' x 11'",
         price: "$95",
-        image: "../../content images/blue-pink-small-jumper.png",
+        image: "../../content images/11x11purple-bluecastle.png",
         link: "/items/109_-_purple_and_blue/"
     },{
         
