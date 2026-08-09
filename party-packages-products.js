@@ -12,6 +12,48 @@ const products = [
         link: "/items/blue__and__pink_package/"
     },
     {
+        name: "Balloons Package",
+        price: "$220",
+        image: "../../content images/minislidepackage.png",
+        link: "/items/classic_combo_slide_package/"
+    },
+    {
+        name: "Unicorn Package",
+        price: "$150",
+        image: "../../content images/Unicronpackage.png",
+        link: "/items/classic_combo_slide_package/"
+    },
+    {
+        name: "Happy Birthday Package",
+        price: "$150",
+        image: "../../content images/Happybirthdaypackage.png",
+        link: "/items/classic_combo_slide_package/"
+    },
+    {
+        name: "Crayon Package",
+        price: "$150",
+        image: "../../content images/crayonpackage.png",
+        link: "/items/classic_combo_slide_package/"
+    },
+    {
+        name: "Blue, Green, Yellow Package",
+        price: "$150",
+        image: "../../content images/BOUNCEHOUSEPACKAGE.png",
+        link: "/items/classic_combo_slide_package/"
+    },
+    {
+        name: "Purple & Blue Package",
+        price: "$150",
+        image: "../../content images/11x11package.png",
+        link: "/items/classic_combo_slide_package/"
+    },
+    {
+        name: "Pink & Purple Package",
+        price: "$150",
+        image: "../../content images/PINK-PURPLERPACKAGE.png",
+        link: "/items/classic_combo_slide_package/"
+    },
+    {
         name: "Rainbow Castle Package",
         price: "$220",
         image: "../../content images/classic-combo-slide-package.png",
