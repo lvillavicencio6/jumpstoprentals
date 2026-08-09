@@ -21,6 +21,27 @@ const products = [
         link: "/items/203_-_tropical_sun_combo_slide_jumper/"
     },
     {
+        id: 203,
+        name: "Balloons Combo Slide 13' x 21'",
+        price: "$185",
+        image: "../../content images/BalloonsMiniSlideFront.png",
+        link: "/items/203_-_tropical_sun_combo_slide_jumper/"
+    },
+    {
+        id: 303,
+        name: "Big Tropical Combo Slide 13' x 27'",
+        price: "$275",
+        image: "../../content images/tropicaBIGSLIDE.png",
+        link: "/items/203_-_tropical_sun_combo_slide_jumper/"
+    },
+    {
+        id: 301,
+        name: "Double Lane Waterslide",
+        price: "$339",
+        image: "../../content images/DOUBLELANEWATERSLIDE.png",
+        link: "/items/203_-_tropical_sun_combo_slide_jumper/"
+    },
+    {
         id: 204,
         name: "Pink Combo Slide Jumper",
         price: "$165",
@@ -49,6 +70,62 @@ const products = [
         link: "/items/102_-_blue__and__pink_small_jumper/"
     },
     // ... add more products as needed
+    {
+        id: 109,
+        name: "Pink & Blue 11' x 11'",
+        price: "$105",
+        image: "../../content images/11x11purple-bluecastle.png",
+        link: "/items/109_-_purple_and_blue/"
+    },
+    {
+        id: 110,
+        name: "Fun Castle 13' x 13'",
+        price: "$115",
+        image: "../../content images/funcastle.png",
+        link: "/items/109_-_purple_and_blue/"
+    },
+    {
+        id: 106,
+        name: "Happy Birthday 13' x 13'",
+        price: "$115",
+        image: "../../content images/HappyBirthdayJumperFront.png",
+        link: "/items/109_-_purple_and_blue/"
+    },
+    {
+        id: 104,
+        name: "Unicorn Themed 13' x 13'",
+        price: "$115",
+        image: "../../content images/UnicornJumperFront.png",
+        link: "/items/109_-_purple_and_blue/"
+    },
+    {
+        id: 103,
+        name: "Blue, Green & Yellow 13' x 13'",
+        price: "$115",
+        image: "../../content images/BLUE-GREEN.png",
+        link: "/items/109_-_purple_and_blue/"
+    },
+    {
+        id: 105,
+        name: "Crayon Themed 13' x 13'",
+        price: "$115",
+        image: "../../content images/CrayolaJumperFront.png",
+        link: "/items/109_-_purple_and_blue/"
+    },
+    {
+        id: 108,
+        name: "Blue, Red & Orange 13' x 13'",
+        price: "$115",
+        image: "../../content images/blueredandorange13x13.png",
+        link: "/items/109_-_purple_and_blue/"
+    },
+    {
+        id: 107,
+        name: "Tropical Sun 13' x 13'",
+        price: "$115",
+        image: "../../content images/tropical-sun-jumper-front.png",
+        link: "/items/109_-_purple_and_blue/"
+    },
     {
         id: 124,
         name: "Classic Castle 13' x 13'",
