@@ -29,6 +29,66 @@ const products = [
         image: "../../content images/60-inch-round-table.png",
         link: "/items/60_inch_round_table/"
     },
+    {
+        name: "White Resin Chair",
+        price: "$3",
+        image: "../../content images/WEBSITERESINCHAIR.png",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "30 Inch Round Cocktail Table",
+        price: "$13.5",
+        image: "../../content images/Cocktail-table.jpeg",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "24 Inch Round Cocktail Table",
+        price: "$13",
+        image: "../../content images/Cocktail-table.jpeg",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "White Rectangular Linen",
+        price: "$8",
+        image: "../../content images/White-Rectangular-Linen.jpg",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "Black Rectangular Linen",
+        price: "$8",
+        image: "../../content images/blacktablecloth.jpeg",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "White Round Linen",
+        price: "$10",
+        image: "../../content images/White-Round-Linen.jpg",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "Black Round Linen",
+        price: "$10",
+        image: "../../content images/roundblacktablecloth.jpeg",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "White Round Cocktail Table Linen",
+        price: "$11",
+        image: "../../content images/spandexcocktailtablewhite.jpg",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "Red Round Cocktail Table Linen",
+        price: "$11",
+        image: "../../content images/Screenshot-2023-11-19-170011.png",
+        link: "/items/60_inch_round_table/"
+    },
+    {
+        name: "Black Round Cocktail Table Linen",
+        price: "$11",
+        image: "../../content images/blackroundlinencocktailtable.jpg",
+        link: "/items/60_inch_round_table/"
+    },
     
     // ... add more products as needed
 ];
