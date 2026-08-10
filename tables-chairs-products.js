@@ -101,6 +101,19 @@ const products = [
         image: "../../content images/10x20-canopy.jpg",
         link: "/items/10_x_20_canopy/"
     },
+    {
+        name: "Commercial Pink Cotton Candy Machine",
+        price: "$85",
+        image: "../../content images/commercialcottoncandy.jpg",
+        link: "/items/commercial_pink_cotton_candy_machine/"
+    },
+    {
+        name: "Commercial Blue Cotton Candy Machine",
+        price: "$85",
+        image: "../../content images/bluecottoncandymachinecommercial.jpg",
+        link: "/items/commercial_blue_cotton_candy_machine/"
+    },
+    
     
     // ... add more products as needed
 ];
