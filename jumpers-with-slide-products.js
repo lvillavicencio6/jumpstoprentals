@@ -138,7 +138,7 @@ const products = [
         name: "Balloons 13' x 13'",
         price: "$115",
         image: "../../content images/balloons-jumper.png",
-        link: "/items/104_-_balloons_jumper/"
+        link: "/items/123_-_balloons_jumper/"
     },
     {
         id: 125,
