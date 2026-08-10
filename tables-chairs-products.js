@@ -125,6 +125,12 @@ const products = [
         image: "../../content images/hb_coffee60cup_brewer02.jpg",
         link: "/items/coffee_brewer/"
     },
+    {
+        name: "Countertop Snowcone Machine",
+        price: "$85",
+        image: "../../content images/countertopsnowcone.png",
+        link: "/items/countertop_snowcone_machine/"
+    },
     
     
     // ... add more products as needed
