@@ -111,7 +111,7 @@ const products = [
         name: "Rainbow Castle Combo Slide 13' x 21'",
         price: "$185",
         image: "../../content images/classic-combo-slide-jumper.png",
-        link: "/items/201_-_classic_combo_slide_jumper/"
+        link: "/items/211_-_rainbow_combo_slide_jumper/"
     },
     {
         id: 212,
