@@ -113,6 +113,12 @@ const products = [
         image: "../../content images/bluecottoncandymachinecommercial.jpg",
         link: "/items/commercial_blue_cotton_candy_machine/"
     },
+    {
+        name: "10 x 10 Popup Canopy",
+        price: "$40",
+        image: "../../content images/s873688019986951038_p66_i1_w1000.jpeg",
+        link: "/items/10_x_10_popup_canopy/"
+    },
     
     
     // ... add more products as needed
