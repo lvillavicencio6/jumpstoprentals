@@ -145,7 +145,7 @@ const products = [
         name: "Pink Princess 13' x 13'",
         price: "$115",
         image: "../../content images/pink-jumper.png",
-        link: "/items/105_-_pink_jumper/"
+        link: "/items/125_-_pink_princess_jumper/"
     },
     {
         id: 106,
