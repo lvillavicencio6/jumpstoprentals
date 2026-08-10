@@ -125,7 +125,7 @@ const products = [
         name: "Tropical Tropical Palms Combo Slide 13' x 21'",
         price: "$185",
         image: "../../content images/tropical-sun-combo-slide.png",
-        link: "/items/203_-_tropical_sun_combo_slide_jumper/"
+        link: "/items/213_-_tropical_palms_combo_slide_jumper/"
     },
     {
         id: 203,
