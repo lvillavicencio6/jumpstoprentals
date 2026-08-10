@@ -131,6 +131,12 @@ const products = [
         image: "../../content images/countertopsnowcone.png",
         link: "/items/countertop_snowcone_machine/"
     },
+    {
+        name: "Outdoor Heater",
+        price: "$85",
+        image: "../../content images/Patio-heater.jpg",
+        link: "/items/outdoor_heater/"
+    },
     
     
     // ... add more products as needed
