@@ -39,13 +39,13 @@ const products = [
         name: "30 Inch Round Cocktail Table",
         price: "$13.5",
         image: "../../content images/Cocktail-table.jpeg",
-        link: "/items/60_inch_round_table/"
+        link: "/items/30_inch_round_cocktail_table/"
     },
     {
         name: "24 Inch Round Cocktail Table",
         price: "$13",
         image: "../../content images/Cocktail-table.jpeg",
-        link: "/items/60_inch_round_table/"
+        link: "/items/24_inch_round_cocktail_table/"
     },
     {
         name: "White Rectangular Linen",
