@@ -69,7 +69,7 @@ const products = [
         name: "Black Round Linen",
         price: "$10",
         image: "../../content images/roundblacktablecloth.jpeg",
-        link: "/items/60_inch_round_table/"
+        link: "/items/black_round_linen/"
     },
     {
         name: "White Round Cocktail Table Linen",
