@@ -159,7 +159,7 @@ const products = [
         name: "Sunny Palms 13' x 13'",
         price: "$115",
         image: "../../content images/tropical-sun-jumper-front.png",
-        link: "/items/107_-_tropical_sun_jumper/"
+        link: "/items/126_-_sunny_palms_jumper/"
     },
 ];
 
