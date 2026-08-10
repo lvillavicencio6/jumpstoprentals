@@ -119,6 +119,12 @@ const products = [
         image: "../../content images/s873688019986951038_p66_i1_w1000.jpeg",
         link: "/items/10_x_10_popup_canopy/"
     },
+    {
+        name: "Coffee Brewer",
+        price: "$25",
+        image: "../../content images/hb_coffee60cup_brewer02.jpg",
+        link: "/items/coffee_brewer/"
+    },
     
     
     // ... add more products as needed
