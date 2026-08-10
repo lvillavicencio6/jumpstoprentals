@@ -118,7 +118,7 @@ const products = [
         name: "Princess Castle Combo Slide 13' x 21'",
         price: "$185",
         image: "../../content images/pink-castle-combo-slide.png",
-        link: "/items/202_-_pink_castle_combo_slide/"
+        link: "/items/212_-_princess_castle_combo_slide/"
     },
     {
         id: 213,
