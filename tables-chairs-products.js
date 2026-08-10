@@ -81,7 +81,7 @@ const products = [
         name: "Red Round Cocktail Table Linen",
         price: "$11",
         image: "../../content images/Screenshot-2023-11-19-170011.png",
-        link: "/items/60_inch_round_table/"
+        link: "/items/red_round_cocktail_table_linen/"
     },
     {
         name: "Black Round Cocktail Table Linen",
