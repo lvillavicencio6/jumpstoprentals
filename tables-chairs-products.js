@@ -75,7 +75,7 @@ const products = [
         name: "White Round Cocktail Table Linen",
         price: "$11",
         image: "../../content images/spandexcocktailtablewhite.jpg",
-        link: "/items/60_inch_round_table/"
+        link: "/items/white_round_cocktail_table_linen/"
     },
     {
         name: "Red Round Cocktail Table Linen",
