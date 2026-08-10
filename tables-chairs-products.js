@@ -89,6 +89,18 @@ const products = [
         image: "../../content images/blackroundlinencocktailtable.jpg",
         link: "/items/60_inch_round_table/"
     },
+    {
+        name: "20 x 20 Canopy",
+        price: "$295",
+        image: "../../content images/10x20-canopy.jpg",
+        link: "/items/20_x_20_canopy/"
+    },
+    {
+        name: "10 x 20 Canopy",
+        price: "$225",
+        image: "../../content images/10x20-canopy.jpg",
+        link: "/items/10_x_20_canopy/"
+    },
     
     // ... add more products as needed
 ];
