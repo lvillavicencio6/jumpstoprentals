@@ -131,7 +131,7 @@ const products = [
         name: "Classic Castle 13' x 13'",
         price: "$115",
         image: "../../content images/blue-green-yellow-jumper.png",
-        link: "/items/103_-_blue,_green__and__yellow_jumper/"
+        link: "/items/124_-_classic_castle_jumper/"
     },
     {
         id: 123,
