@@ -33,7 +33,7 @@ const products = [
         name: "White Resin Chair",
         price: "$3",
         image: "../../content images/WEBSITERESINCHAIR.png",
-        link: "/items/60_inch_round_table/"
+        link: "/items/white_resin_chair/"
     },
     {
         name: "30 Inch Round Cocktail Table",
