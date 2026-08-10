@@ -51,7 +51,7 @@ const products = [
         name: "White Rectangular Linen",
         price: "$8",
         image: "../../content images/White-Rectangular-Linen.jpg",
-        link: "/items/60_inch_round_table/"
+        link: "/items/white_rectangular_linen/"
     },
     {
         name: "Black Rectangular Linen",
