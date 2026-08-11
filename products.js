@@ -47,7 +47,7 @@ const products = [
         name: "Blue, Green & Yellow 13' x 13'",
         price: "$115",
         image: "../../content images/BLUE-GREEN.png",
-        link: "/items/109_-_purple_and_blue/"
+        llink: "/items/103_-_blue_green_and_yellow_jumper/"
     },
     {
         id: 105,
