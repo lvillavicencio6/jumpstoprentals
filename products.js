@@ -40,7 +40,7 @@ const products = [
         name: "Unicorn Themed 13' x 13'",
         price: "$115",
         image: "../../content images/UnicornJumperFront.png",
-        link: "/items/109_-_purple_and_blue/"
+        link: "/items/104_-_unicorn_themed/"
     },
     {
         id: 103,
