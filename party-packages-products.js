@@ -27,7 +27,7 @@ const products = [
         name: "Happy Birthday Package",
         price: "$150",
         image: "../../content images/Happybirthdaypackage.png",
-        link: "/items/classic_combo_slide_package/"
+        link: "/items/Happy_Birthday_Package/"
     },
     {
         name: "Crayon Package",
