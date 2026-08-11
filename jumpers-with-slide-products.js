@@ -89,7 +89,7 @@ const products = [
         name: "Happy Birthday 13' x 13'",
         price: "$115",
         image: "../../content images/HappyBirthdayJumperFront.png",
-        link: "/items/109_-_purple_and_blue/"
+        link: "/items/106_-_happy_birthday/"
     },
     {
         id: 104,
