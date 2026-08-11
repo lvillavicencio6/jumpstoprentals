@@ -33,7 +33,7 @@ const products = [
         name: "Crayon Package",
         price: "$150",
         image: "../../content images/crayonpackage.png",
-        link: "/items/classic_combo_slide_package/"
+        link: "/items/Crayon_Package/"
     },
     {
         name: "Blue, Green, Yellow Package",
