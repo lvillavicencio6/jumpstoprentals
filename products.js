@@ -146,7 +146,7 @@ const products = [
         name: "Double Lane Waterslide",
         price: "$339",
         image: "../../content images/DOUBLELANEWATERSLIDE.png",
-        link: "/items/203_-_tropical_sun_combo_slide_jumper/"
+        link: "/items/301_-_double_lane_waterslide/"
     },
     {
         id: 204,
