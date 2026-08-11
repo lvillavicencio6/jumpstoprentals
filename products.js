@@ -68,7 +68,7 @@ const products = [
         name: "Tropical Sun 13' x 13'",
         price: "$115",
         image: "../../content images/tropical-sun-jumper-front.png",
-        link: "/items/109_-_purple_and_blue/"
+        link: "/items/107_-_tropical_sun/"
     },
     {
         
