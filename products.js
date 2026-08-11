@@ -132,7 +132,7 @@ const products = [
         name: "Balloons Combo Slide 13' x 21'",
         price: "$185",
         image: "../../content images/BalloonsMiniSlideFront.png",
-        link: "/items/203_-_tropical_sun_combo_slide_jumper/"
+        link: "/items/203_-_balloons_mini_slide/"
     },
     {
         id: 303,
