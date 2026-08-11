@@ -110,7 +110,7 @@ const products = [
         name: "Crayon Themed 13' x 13'",
         price: "$115",
         image: "../../content images/CrayolaJumperFront.png",
-        link: "/items/109_-_purple_and_blue/"
+        link: "/items/105_-_Crayon_Themed/"
     },
     {
         id: 108,
