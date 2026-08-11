@@ -94,10 +94,10 @@ const products = [
     },
     {
         id: 102,
-        name: "Pink Castle Jumper",
+        name: "Pink & Purple Jumper",
         price: "$95",
         image: "../../content images/pink-castle-jumper.png",
-        link: "/items/106_-_pink_castle_jumper/"
+        link: "/items/102_-_Pink_Purple/"
     },
     {
         id: 126,

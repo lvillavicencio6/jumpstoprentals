@@ -124,7 +124,7 @@ const products = [
         name: "Tropical Sun 13' x 13'",
         price: "$115",
         image: "../../content images/tropical-sun-jumper-front.png",
-        link: "/items/107_-_tropical_sun/"
+        link: "/items/10_-_tropical_sun/"
     },
     {
         id: 124,
@@ -148,11 +148,11 @@ const products = [
         link: "/items/125_-_pink_princess_jumper/"
     },
     {
-        id: 106,
+        id: 102,
         name: "Pink Castle Jumper",
         price: "$95",
         image: "../../content images/pink-castle-jumper.png",
-        link: "/items/106_-_pink_castle_jumper/"
+        link: "/items/102_-_Pink_Purple/"
     },
     {
         id: 126,
