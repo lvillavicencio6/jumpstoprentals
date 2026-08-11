@@ -69,7 +69,7 @@ const products = [
         name: "Tropical Palms Package",
         price: "$220",
         image: "../../content images/tropical-sun-combo-slide-package.png",
-        link: "/items/tropical_sun_combo_slide_package/"
+        link: "/items/Tropical_Palms_Package/"
     },
     
     // ... add more products as needed
