@@ -83,7 +83,7 @@ const products = [
         name: "Classic Balloons Package",
         price: "$150",
         image: "../../content images/balloons-package.png",
-        link: "/items/balloons_package/"
+        link: "/items/classic_balloons_package/"
     },
     {
         name: "Pink Princess Package",
