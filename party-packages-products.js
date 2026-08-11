@@ -15,7 +15,7 @@ const products = [
         name: "Balloons Package",
         price: "$220",
         image: "../../content images/minislidepackage.png",
-        link: "/items/classic_combo_slide_package/"
+        link: "/items/Balloons_Package/"
     },
     {
         name: "Unicorn Package",
