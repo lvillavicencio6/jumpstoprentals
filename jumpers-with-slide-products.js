@@ -67,7 +67,7 @@ const products = [
         name: "Pink Toddler Bounce House 11' x 11'",
         price: "$95",
         image: "../../content images/blue-pink-small-jumper.png",
-        link: "/items/102_-_blue__and__pink_small_jumper/"
+        link: "/items/122_-_pink_toddler_bounce_house/"
     },
     // ... add more products as needed
     {
