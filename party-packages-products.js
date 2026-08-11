@@ -9,7 +9,7 @@ const products = [
         name: "Pink Toddler Bounce House Package",
         price: "$140",
         image: "../../content images/blue-pink-package.png",
-        link: "/items/blue__and__pink_package/"
+        link: "/items/Pink_Toddler_Bounce_House_Package/"
     },
     {
         name: "Balloons Package",
