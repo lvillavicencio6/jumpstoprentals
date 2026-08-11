@@ -45,7 +45,7 @@ const products = [
         name: "Purple & Blue Package",
         price: "$150",
         image: "../../content images/11x11package.png",
-        link: "/items/classic_combo_slide_package/"
+        link: "/items/Purple_Blue_Package/"
     },
     {
         name: "Pink & Purple Package",
