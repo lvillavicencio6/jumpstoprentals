@@ -117,7 +117,7 @@ const products = [
         name: "Blue, Red & Orange 13' x 13'",
         price: "$115",
         image: "../../content images/blueredandorange13x13.png",
-        link: "/items/109_-_purple_and_blue/"
+        link: "/items/108_-_Blue_Red_Orange/"
     },
     {
         id: 107,
