@@ -95,7 +95,7 @@ const products = [
         name: "Sunny Palms Package",
         price: "$150",
         image: "../../content images/tropical-sun-package.png",
-        link: "/items/tropical_sun_package/"
+        link: "/items/Sunny_Palms_Package/"
     },
 ];
 
