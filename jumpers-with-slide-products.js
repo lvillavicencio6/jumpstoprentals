@@ -32,7 +32,7 @@ const products = [
         name: "Big Tropical Combo Slide 13' x 27'",
         price: "$275",
         image: "../../content images/tropicaBIGSLIDE.png",
-        link: "/items/203_-_tropical_sun_combo_slide_jumper/"
+        link: "/items/303_-_tropical_slide_combo/"
     },
     {
         id: 301,
