@@ -77,7 +77,7 @@ const products = [
         name: "Classic Castle Package",
         price: "$150",
         image: "../../content images/blue-green-yellow-package.png",
-        link: "/items/blue,_green__and__yellow_package/"
+        link: "/items/Classic_Castle_Package/"
     },
     {
         name: "Classic Balloons Package",
