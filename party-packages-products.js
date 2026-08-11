@@ -89,7 +89,7 @@ const products = [
         name: "Pink Princess Package",
         price: "$150",
         image: "../../content images/pink-package.png",
-        link: "/items/pink_package/"
+        link: "/items/Pink_Princess_Package/"
     },
     {
         name: "Sunny Palms Package",
