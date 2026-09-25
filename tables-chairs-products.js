@@ -49,7 +49,7 @@ const products = [
     },
     {
         name: "White Rectangular Linen",
-        price: "$8",
+        price: "$13.50",
         image: "../../content images/White-Rectangular-Linen.jpg",
         link: "/items/white_rectangular_linen/"
     },
@@ -61,7 +61,7 @@ const products = [
     },
     {
         name: "White Round Linen",
-        price: "$10",
+        price: "$18.50",
         image: "../../content images/White-Round-Linen.jpg",
         link: "/items/white_round_linen/"
     },
